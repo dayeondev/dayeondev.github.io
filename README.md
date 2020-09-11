@@ -17,7 +17,7 @@ Undergraduate studens, Division of Software, Hanyang University ERICA.
 - 2017 - 2020, Computer Science Department,  [Incheon Information Industry High School](http://incheon-ii.icehs.kr)
 - 2017 - 2018, Student vice president, [Incheon Information Industry High School](http://incheon-ii.icehs.kr)
 
-#### Production Experience
+#### Toys 
 
 - Android App, [참새의 하루](https://play.google.com/store/apps/details?id=com.cucumko.flybird&hl=ko), [github](https://github.com/dc203dy202/FlyBird)
 - PHP, [Movie reservation](http://dayeon.asuscomm.com/cinema/cinema)
